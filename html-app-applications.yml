@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: .
-    repoURL: https://github.com/vedantsharmascaler/html-demo-app.git
+    repoURL: https://github.com/vedantsharmascaler/html-deployment.git
     targetRevision: main
   syncPolicy:
     automated:
