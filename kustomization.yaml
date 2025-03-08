@@ -4,4 +4,4 @@ resources:
 
 images:
   - name: vedant120/html-app
-    newTag: latest
+    newTag: v2
